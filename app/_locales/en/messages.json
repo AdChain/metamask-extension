@@ -451,6 +451,9 @@
   "hideTokenPrompt": {
     "message": "Hide Token?"
   },
+  "history": {
+    "message": "History"
+  },
   "howToDeposit": {
     "message": "How would you like to deposit Ether?"
   },
@@ -645,7 +648,7 @@
     "message": "No transaction history."
   },
   "noTransactions": {
-    "message": "No Transactions"
+    "message": "You have no transactions"
   },
   "notFound": {
     "message": "Not Found"
@@ -689,6 +692,9 @@
   },
   "pasteSeed": {
     "message": "Paste your seed phrase here!"
+  },
+  "pending": {
+    "message": "Pending"
   },
   "personalAddressDetected": {
     "message": "Personal address detected. Input the token contract address."
@@ -881,6 +887,9 @@
   },
   "sendETH": {
     "message": "Send ETH"
+  },
+  "sendEther": {
+    "message": "Send Ether"
   },
   "sendTokens": {
     "message": "Send Tokens"
